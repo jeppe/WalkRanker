@@ -1,0 +1,7 @@
+2018-02-05 03:47:18,761 [INFO] Training: /data/ml100k/u1.base, Testing:: /data/ml100k/u1.test.
+2018-02-05 03:47:19,062 [DEBUG] User amount: 943, item amount: 1650
+2018-02-05 03:47:19,062 [DEBUG] Rate amount: 80000
+2018-02-05 03:47:19,161 [DEBUG] User amount: 943, item amount: 1650
+2018-02-05 03:47:19,162 [DEBUG] Rate amount: 19968
+2018-02-05 03:47:19,200 [INFO] AsyUnifiedRanker: 30,5.0E-4,0.35,0.35,100,1600,1,100,0.4,10
+2018-02-05 03:47:19,201 [INFO] 1/1

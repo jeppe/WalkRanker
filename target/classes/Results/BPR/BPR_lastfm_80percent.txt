@@ -1,0 +1,7 @@
+[INFO ] Training: ...ssh/lastfm-hetrec/train0.2_folder_1, Testing:: .../ssh/lastfm-hetrec/test0.2_folder_1.
+[DEBUG] User amount: 1752, item amount: 5992
+[DEBUG] Rate amount: 48029, scales: {1.0}
+[DEBUG] User amount: 1752, item amount: 5992
+[DEBUG] Rate amount: 11796, scales: {1.0}
+[INFO ] BPR: 0.0,30,0.005,0.05,0.05,1500
+[INFO ] 0.108869,0.087795,0.094254,0.143900,0.723217,0.083164,0.117519,0.227655,-1
